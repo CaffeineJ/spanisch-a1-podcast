@@ -1,0 +1,4 @@
+# Nur öffentliche Podcast-Dateien (feed.xml, index.html, *.mp3) publizieren
+*_transkript.md
+episodes.json
+.DS_Store

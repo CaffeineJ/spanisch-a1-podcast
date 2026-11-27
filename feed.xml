@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd">
+  <channel>
+    <title>Spanisch A1 – Dein persönlicher Hör-Coach</title>
+    <link>https://caffeinej.github.io/spanisch-a1-podcast</link>
+    <language>es</language>
+    <description>Maßgeschneiderte Spanisch-A1-Hörübungen mit der 1-2-3-Satz-Hör-Leiter, Echo-Pausen und Eselsbrücken.</description>
+    <itunes:author>Spanisch A1 Coach</itunes:author>
+    <itunes:explicit>false</itunes:explicit>
+    <itunes:category text="Education"><itunes:category text="Language Learning"/></itunes:category>
+    <item>
+      <title>Folge 1: Woche 1 – Vorstellen, Homeoffice & die 1-2-3-Hör-Leiter</title>
+      <description>Dein maßgeschneidertes Woche-1-Hörtraining: Erst 1 Satz mit Echo-Pause, dann 2er-Päckchen, dann ein kurzer Alltagsdialog – inkl. desde, Buen provecho, los problemas und las luces.</description>
+      <pubDate>Fri, 27 Nov 2026 17:01:28 +0000</pubDate>
+      <enclosure url="https://caffeinej.github.io/spanisch-a1-podcast/ep01_woche01_hoerleiter.mp3" length="1187136" type="audio/mpeg"/>
+      <guid isPermaLink="false">spanisch-a1-ep01-woche01</guid>
+      <itunes:duration>03:18</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+  </channel>
+</rss>
