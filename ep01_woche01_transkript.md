@@ -5,7 +5,7 @@
 
 ---
 
-## Stufe 1 – Einzel-Sätze *(langsam `-15 %`, 2,5 Sek. Echo-Pause)*
+## Stufe 1 – Einzel-Sätze *(~75 % Tempo, 3,4 Sek. Echo-Pause)*
 1. *Hola, me llamo Christian y soy ingeniero.* — Hallo, ich heiße Christian und ich bin Ingenieur.
 2. *Vivo en Múnich y trabajo **desde** casa.* — Ich wohne in München und arbeite von zu Hause aus.
 3. *Hablo alemán **e** inglés, y aprendo español.* — Ich spreche Deutsch und Englisch, und ich lerne Spanisch.
@@ -17,15 +17,15 @@
 
 ---
 
-## Stufe 2 – 2er-Päckchen *(Tempo `-12 %`, 3 Sek. Pause)*
+## Stufe 2 – 2er-Päckchen *(~75 % Tempo, 3,4 Sek. Echo-Pause)*
 1. *Tengo **cincuenta y tres años** y soy ingeniero. Trabajo **para** una farmacéutica **desde** casa.*
 2. *Hablo alemán **e** inglés, pero **no vivo** en Madrid. Vivo en Múnich y **hago deporte en las montañas**.*
 3. ***Busco** el papel, pero no lo **encuentro**. ¿**Tienes** tú el papel?*
 
 ---
 
-## Stufe 3 – Mini-Dialog *(erst `-10 %`, dann normales Tempo `100 %`!)*
-- **Elvira:** *¡Hola! ¿Qué tal? ¿Trabajas hoy **desde** casa?*
-- **Álvaro:** *¡Hola! Muy bien, gracias. Sí, hoy trabajo **desde** casa y después hago deporte en las montañas.*
-- **Elvira:** *¡Qué bien! ¿Comemos **pescado** hoy?*
-- **Álvaro:** *¡Claro que sí! **¡Buen provecho!***
+## Stufe 3 – Mini-Dialog *(erst ~82 %, dann ~95 %!)*
+- **Aoede:** *¡Hola! ¿Qué tal? ¿Trabajas hoy **desde** casa?*
+- **Charon:** *¡Hola! Muy bien, gracias. Sí, hoy trabajo **desde** casa y después hago deporte en las montañas.*
+- **Aoede:** *¡Qué bien! ¿Comemos **pescado** hoy?*
+- **Charon:** *¡Claro que sí! **¡Buen provecho!***

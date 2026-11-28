@@ -3,7 +3,7 @@
 > **Audio-Datei:** [ep06_woche02_tapas_gustar.m4a](./ep06_woche02_tapas_gustar.m4a) *(nur lokal zum Mitlesen)*
 
 ### Block 1 – `gustar` (Wort-für-Wort: „Mir gefällt …“)
-- *A mí me gusta el vino tinto.* — Mir gefällt der Rotwein (Singular → `gusta`).
+- *A mí me gusta el vino tinto. ¡A mí también!* — Mir gefällt der Rotwein (Singular → `gusta`). Mir auch! *(bei `gustar` immer `¡A mí también!`, nie `yo también`!)*
 - *Nos gustan mucho las tapas.* — Uns gefallen die Tapas sehr (Plural → `gustan`).
 - *¿A ti te gusta el café con leche?* — Magst du Milchkaffee?
 

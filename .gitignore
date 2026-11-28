@@ -2,3 +2,4 @@
 episodes.json
 .DS_Store
 .tmp_*.wav
+.pcm_cache/

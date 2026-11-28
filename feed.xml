@@ -5,35 +5,54 @@
     <link>https://caffeinej.github.io/spanisch-a1-podcast</link>
     <atom:link href="https://caffeinej.github.io/spanisch-a1-podcast/feed.xml" rel="self" type="application/rss+xml"/>
     <language>es</language>
-    <description>Maßgeschneiderte Spanisch-A1-Hörübungen mit der 1-2-3-Satz-Hör-Leiter, Echo-Pausen und Eselsbrücken.</description>
+    <description>Maßgeschneiderte Spanisch-A1-Hörübungen mit gestuftem Tempo (langsam → normal), extra langen Echo-Pausen zum Nachsprechen und natürlichen Dialogen.</description>
     <itunes:author>Spanisch A1 Coach</itunes:author>
+    <itunes:type>serial</itunes:type>
+    <itunes:image href="https://caffeinej.github.io/spanisch-a1-podcast/cover.jpg"/>
     <itunes:explicit>false</itunes:explicit>
     <itunes:category text="Education"><itunes:category text="Language Learning"/></itunes:category>
     <item>
+      <title>Folge 5 (Woche 2): Das große Dreieck – ser, estar, hay &amp; Bedeutungs-Wechsler</title>
+      <description>Woche 2 Studio-Edition (75 → 82 → 95 % Tempo + 3,4s Echo-Pausen): ser vs. estar vs. hay, Event-Regel (¿Dónde es la fiesta?) und die Bedeutungs-Wechsler listo, rico, aburrido.</description>
+      <pubDate>Sat, 28 Nov 2026 07:25:00 +0000</pubDate>
+      <enclosure url="https://caffeinej.github.io/spanisch-a1-podcast/ep05_woche02_ser_estar_hay.m4a" length="1763126" type="audio/x-m4a"/>
+      <guid isPermaLink="false">spanisch-a1-ep05-woche02-ser-estar-hay-studio</guid>
+      <itunes:season>1</itunes:season>
+      <itunes:episode>5</itunes:episode>
+      <itunes:duration>03:16</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
+      <title>Folge 4: Basis-Verben im Alltag – tener, hacer, haber, llevar &amp; ponerse</title>
+      <description>Studio-Edition (langsam → normal + 3,4s Echo-Pausen): Tengo frío vs. Hace frío, Vergangenheit mit haber, Anhaben mit llevar, cometer un error &amp; ¡Ya voy!</description>
+      <pubDate>Sat, 28 Nov 2026 07:20:00 +0000</pubDate>
+      <enclosure url="https://caffeinej.github.io/spanisch-a1-podcast/ep04_woche01_basisverben.m4a" length="2010461" type="audio/x-m4a"/>
+      <guid isPermaLink="false">spanisch-a1-ep04-woche01-basisverben-studio-v2</guid>
+      <itunes:season>1</itunes:season>
+      <itunes:episode>4</itunes:episode>
+      <itunes:duration>03:29</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
       <title>Folge 3: Kennenlernen im Sprachkurs – Herkunft, Wandern &amp; Tapas</title>
-      <description>Wochenend-Spezial Teil 2 mit natürlicher Stimme: Kennenlern-Dialog zwischen Sofía aus Valencia und Lukas aus München – inkl. el senderismo, tapear, echar una mano, mejorar und por eso.</description>
-      <pubDate>Fri, 27 Nov 2026 18:49:00 +0000</pubDate>
-      <enclosure url="https://caffeinej.github.io/spanisch-a1-podcast/ep03_woche01_kennenlernen.mp3" length="1172736" type="audio/mpeg"/>
-      <guid isPermaLink="false">spanisch-a1-ep03-woche01-kennenlernen-florian</guid>
-      <itunes:duration>03:15</itunes:duration>
+      <description>Studio-Edition (langsam → normal + 3,4s Echo-Pausen): Kennenlern-Dialog zwischen Sofía aus Valencia &amp; Lukas aus München – inkl. senderismo, tapear &amp; echar una mano.</description>
+      <pubDate>Sat, 28 Nov 2026 07:15:00 +0000</pubDate>
+      <enclosure url="https://caffeinej.github.io/spanisch-a1-podcast/ep03_woche01_kennenlernen.m4a" length="1827863" type="audio/x-m4a"/>
+      <guid isPermaLink="false">spanisch-a1-ep03-woche01-kennenlernen-studio-v2</guid>
+      <itunes:season>1</itunes:season>
+      <itunes:episode>3</itunes:episode>
+      <itunes:duration>02:43</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
     </item>
     <item>
       <title>Folge 2: Typische Spanisch-Fallen, Geschlechts-Zwillinge &amp; No, no</title>
-      <description>Wochenend-Spezial Teil 1 mit natürlicher Stimme: la foto, soy de, tengo años, -aje, Geschlechts-Zwillinge, doppeltes No, no und Qué vs. Cuál im Dialog.</description>
-      <pubDate>Fri, 27 Nov 2026 18:47:00 +0000</pubDate>
-      <enclosure url="https://caffeinej.github.io/spanisch-a1-podcast/ep02_woche01_fehlerfallen.mp3" length="1224576" type="audio/mpeg"/>
-      <guid isPermaLink="false">spanisch-a1-ep02-woche01-fallen-florian</guid>
-      <itunes:duration>03:24</itunes:duration>
-      <itunes:explicit>false</itunes:explicit>
-    </item>
-    <item>
-      <title>Folge 1: Woche 1 – Vorstellen, Homeoffice &amp; die 1-2-3-Hör-Leiter</title>
-      <description>Dein Woche-1-Hörtraining mit natürlicher Stimme: Erst 1 Satz mit Echo-Pause, dann 2er-Päckchen, dann Alltags-Dialog – inkl. desde, Buen provecho, los problemas und las luces.</description>
-      <pubDate>Fri, 27 Nov 2026 18:45:00 +0000</pubDate>
-      <enclosure url="https://caffeinej.github.io/spanisch-a1-podcast/ep01_woche01_hoerleiter.mp3" length="1174752" type="audio/mpeg"/>
-      <guid isPermaLink="false">spanisch-a1-ep01-woche01-florian</guid>
-      <itunes:duration>03:16</itunes:duration>
+      <description>Studio-Edition (langsam → normal + 3,4s Echo-Pausen): la foto, soy de, tengo años, -aje, Geschlechts-Zwillinge, doppeltes No, no &amp; Qué vs. Cuál.</description>
+      <pubDate>Sat, 28 Nov 2026 07:10:00 +0000</pubDate>
+      <enclosure url="https://caffeinej.github.io/spanisch-a1-podcast/ep02_woche01_fehlerfallen.m4a" length="1869463" type="audio/x-m4a"/>
+      <guid isPermaLink="false">spanisch-a1-ep02-woche01-fallen-studio-v2</guid>
+      <itunes:season>1</itunes:season>
+      <itunes:episode>2</itunes:episode>
+      <itunes:duration>02:40</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
     </item>
   </channel>

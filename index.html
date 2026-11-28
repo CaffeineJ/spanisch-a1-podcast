@@ -7,6 +7,8 @@
   <style>
     body { font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", sans-serif; background: #0f172a; color: #f8fafc; max-width: 680px; margin: 40px auto; padding: 0 20px; line-height: 1.6; }
     h1 { color: #38bdf8; }
+    .hero { display: flex; align-items: center; gap: 18px; margin-bottom: 16px; }
+    .hero img { width: 96px; height: 96px; border-radius: 16px; border: 2px solid #334155; }
     .card { background: #1e293b; border: 1px solid #334155; border-radius: 12px; padding: 18px 20px; margin: 18px 0; }
     a { color: #38bdf8; }
     audio { width: 100%; margin-top: 10px; }
@@ -14,27 +16,37 @@
   </style>
 </head>
 <body>
-  <h1>🇪🇸 Spanisch A1 – Hör-Coach</h1>
-  <p>Persönliche A1-Hörübungen mit gestuften Sätzen (1 → 2 → 3), Echo-Pausen zum Nachsprechen und alltagsnahen Mini-Dialogen.</p>
+  <div class="hero">
+    <img src="./cover.jpg" alt="Spanisch A1 Hör-Coach Cover" />
+    <div>
+      <h1 style="margin:0;">Spanisch A1 – Hör-Coach</h1>
+      <p style="margin:4px 0 0;color:#94a3b8;">Studio-Edition · 75 % → 82 % → 95 % Tempo-Leiter · 3,4s Echo-Pausen</p>
+    </div>
+  </div>
   <div class="card">
     <strong>Direkt in Apple Podcasts öffnen (iPhone / Mac):</strong><br/>
     <a href="podcast://caffeinej.github.io/spanisch-a1-podcast/feed.xml" style="display:inline-block;background:#a855f7;color:#fff;text-decoration:none;font-weight:700;padding:10px 18px;border-radius:10px;margin:10px 0;">🎧 In Apple Podcasts abonnieren</a><br/>
     <small>Oder manuell per URL: <code>https://caffeinej.github.io/spanisch-a1-podcast/feed.xml</code></small>
   </div>
   <div class="card">
+    <h3>Folge 5 (Woche 2): Das große Dreieck – ser, estar, hay &amp; Bedeutungs-Wechsler</h3>
+    <p>Woche 2 Studio-Edition (75 → 82 → 95 % Tempo + 3,4s Echo-Pausen): ser vs. estar vs. hay, Event-Regel (¿Dónde es la fiesta?) und die Bedeutungs-Wechsler listo, rico, aburrido. · <a href="https://github.com/CaffeineJ/spanisch-a1-podcast/blob/main/ep05_woche02_transkript.md" target="_blank">📄 Transkript lesen (.md)</a></p>
+    <audio controls src="./ep05_woche02_ser_estar_hay.m4a"></audio>
+  </div>
+  <div class="card">
+    <h3>Folge 4: Basis-Verben im Alltag – tener, hacer, haber, llevar &amp; ponerse</h3>
+    <p>Studio-Edition (langsam → normal + 3,4s Echo-Pausen): Tengo frío vs. Hace frío, Vergangenheit mit haber, Anhaben mit llevar, cometer un error &amp; ¡Ya voy! · <a href="https://github.com/CaffeineJ/spanisch-a1-podcast/blob/main/ep04_woche01_transkript.md" target="_blank">📄 Transkript lesen (.md)</a></p>
+    <audio controls src="./ep04_woche01_basisverben.m4a"></audio>
+  </div>
+  <div class="card">
     <h3>Folge 3: Kennenlernen im Sprachkurs – Herkunft, Wandern &amp; Tapas</h3>
-    <p>Original-Dialog zwischen Sofía &amp; Lukas mit <em>el senderismo, tapear, echar una mano, mejorar</em> und <em>por eso</em> – langsam &amp; normal.</p>
-    <audio controls src="./ep03_woche01_kennenlernen.mp3"></audio>
+    <p>Studio-Edition (langsam → normal + 3,4s Echo-Pausen): Kennenlern-Dialog zwischen Sofía aus Valencia &amp; Lukas aus München – inkl. senderismo, tapear &amp; echar una mano. · <a href="https://github.com/CaffeineJ/spanisch-a1-podcast/blob/main/ep03_woche01_transkript.md" target="_blank">📄 Transkript lesen (.md)</a></p>
+    <audio controls src="./ep03_woche01_kennenlernen.m4a"></audio>
   </div>
   <div class="card">
     <h3>Folge 2: Typische Spanisch-Fallen, Geschlechts-Zwillinge &amp; No, no</h3>
-    <p><em>la foto, soy de, tengo años, -aje, el puerto/la puerta</em>, doppeltes <em>No, no</em> &amp; <em>¿Qué? vs. ¿Cuál?</em> im Dialog.</p>
-    <audio controls src="./ep02_woche01_fehlerfallen.mp3"></audio>
-  </div>
-  <div class="card">
-    <h3>Folge 1: Woche 1 – Vorstellen, Homeoffice &amp; die 1-2-3-Hör-Leiter</h3>
-    <p>Einzel-Sätze mit Echo-Pause, 2er-Päckchen und ein kurzer Alltags-Dialog (langsam &amp; normales Tempo).</p>
-    <audio controls src="./ep01_woche01_hoerleiter.mp3"></audio>
+    <p>Studio-Edition (langsam → normal + 3,4s Echo-Pausen): la foto, soy de, tengo años, -aje, Geschlechts-Zwillinge, doppeltes No, no &amp; Qué vs. Cuál. · <a href="https://github.com/CaffeineJ/spanisch-a1-podcast/blob/main/ep02_woche01_transkript.md" target="_blank">📄 Transkript lesen (.md)</a></p>
+    <audio controls src="./ep02_woche01_fehlerfallen.m4a"></audio>
   </div>
 </body>
 </html>

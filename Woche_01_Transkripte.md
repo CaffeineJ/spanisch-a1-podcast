@@ -12,7 +12,7 @@
 
 ---
 
-## Stufe 1 – Einzel-Sätze *(langsam `-15 %`, 2,5 Sek. Echo-Pause)*
+## Stufe 1 – Einzel-Sätze *(~75 % Tempo, 3,4 Sek. Echo-Pause)*
 1. *Hola, me llamo Christian y soy ingeniero.* — Hallo, ich heiße Christian und ich bin Ingenieur.
 2. *Vivo en Múnich y trabajo **desde** casa.* — Ich wohne in München und arbeite von zu Hause aus.
 3. *Hablo alemán **e** inglés, y aprendo español.* — Ich spreche Deutsch und Englisch, und ich lerne Spanisch.
@@ -24,25 +24,25 @@
 
 ---
 
-## Stufe 2 – 2er-Päckchen *(Tempo `-12 %`, 3 Sek. Pause)*
+## Stufe 2 – 2er-Päckchen *(~75 % Tempo, 3,4 Sek. Echo-Pause)*
 1. *Tengo **cincuenta y tres años** y soy ingeniero. Trabajo **para** una farmacéutica **desde** casa.*
 2. *Hablo alemán **e** inglés, pero **no vivo** en Madrid. Vivo en Múnich y **hago deporte en las montañas**.*
 3. ***Busco** el papel, pero no lo **encuentro**. ¿**Tienes** tú el papel?*
 
 ---
 
-## Stufe 3 – Mini-Dialog *(erst `-10 %`, dann normales Tempo `100 %`!)*
-- **Elvira:** *¡Hola! ¿Qué tal? ¿Trabajas hoy **desde** casa?*
-- **Álvaro:** *¡Hola! Muy bien, gracias. Sí, hoy trabajo **desde** casa y después hago deporte en las montañas.*
-- **Elvira:** *¡Qué bien! ¿Comemos **pescado** hoy?*
-- **Álvaro:** *¡Claro que sí! **¡Buen provecho!***
+## Stufe 3 – Mini-Dialog *(erst ~82 %, dann ~95 %!)*
+- **Aoede:** *¡Hola! ¿Qué tal? ¿Trabajas hoy **desde** casa?*
+- **Charon:** *¡Hola! Muy bien, gracias. Sí, hoy trabajo **desde** casa y después hago deporte en las montañas.*
+- **Aoede:** *¡Qué bien! ¿Comemos **pescado** hoy?*
+- **Charon:** *¡Claro que sí! **¡Buen provecho!***
 
 
 ---
 
 ## Folge 2 – Transkript (Typische Spanisch-Fallen, Geschlechts-Zwillinge & „No, no…“)
 
-> **Audio-Datei:** [ep02_woche01_fehlerfallen.mp3](./ep02_woche01_fehlerfallen.mp3) *(nur lokal zum Mitlesen)*
+> **Audio-Datei:** [ep02_woche01_fehlerfallen.m4a](./ep02_woche01_fehlerfallen.m4a) *(nur lokal zum Mitlesen)*
 
 ### Block 1 – Die 3 Klassiker
 - *La foto es muy bonita.* — Das Foto ist sehr schön. *(Kurzform von `la fotografía`!)*
@@ -57,25 +57,25 @@
 - *¿Hablas francés? – **No, no** hablo francés. Hablo español.*
 - *¿**Qué** bolso prefieres? ¿**Cuál** es tu número de teléfono?*
 
-### Abschluss-Dialog *(erst `-10 %`, dann `100 %`)*
-- **Elvira:** *¡Hola! ¿Tienes alguna duda con el español?*
-- **Álvaro:** *Sí, un poco. ¿Se dice el foto o la foto?*
-- **Elvira:** *Se dice la foto, porque viene de fotografía. ¿Y vives en Hamburgo?*
-- **Álvaro:** *No, no vivo en Hamburgo. Vivo en Múnich. ¡Muchas gracias, esto es muy útil!*
+### Abschluss-Dialog *(erst ~82 %, dann ~95 %!)*
+- **Aoede:** *¡Hola! ¿Tienes alguna duda con el español?*
+- **Charon:** *Sí, un poco. ¿Se dice el foto o la foto?*
+- **Aoede:** *Se dice la foto, porque viene de fotografía. ¿Y vives en Hamburgo?*
+- **Charon:** *No, no vivo en Hamburgo. Vivo en Múnich. ¡Muchas gracias, esto es muy útil!*
 
 
 ---
 
 ## Folge 3 – Transkript (Kennenlernen im Sprachkurs – Herkunft, Wandern & Tapas)
 
-> **Audio-Datei:** [ep03_woche01_kennenlernen.mp3](./ep03_woche01_kennenlernen.mp3) *(nur lokal zum Mitlesen)*
+> **Audio-Datei:** [ep03_woche01_kennenlernen.m4a](./ep03_woche01_kennenlernen.m4a) *(nur lokal zum Mitlesen)*
 
 ### Schlüssel-Wörter *(langsam mit Echo-Pause)*
 - *El pasatiempo* (Hobby, wörtl. „Zeit-Vertreiber“) · *El senderismo* (Wandern)
 - *Quiero mejorar mi español. Por eso estudio mucho.* (Ich will mein Spanisch verbessern. Deshalb lerne ich viel.)
 - *Podemos tapear el sábado. Te echo una mano.* (Wir können am Samstag Tapas essen gehen. Ich helfe dir / „werfe dir eine Hand“.)
 
-### Dialog Sofía & Lukas *(erst in 2 Päckchen `-12 %`, dann komplett `100 %`!)*
+### Dialog Sofía & Lukas *(erst ~82 %, dann ~95 %!)*
 - **Sofía:** *¡Hola a todo el mundo! Me llamo Sofía y soy de Valencia. Trabajo como profesora de español.*
 - **Lukas:** *¡Encantado, Sofía! Soy Lukas y soy de Múnich. Trabajo en una empresa alemana y viajo una vez al mes a España.*
 - **Sofía:** *¡Qué bien! ¿Por qué quieres mejorar tu castellano? ¿Cuál es tu pasatiempo favorito?*

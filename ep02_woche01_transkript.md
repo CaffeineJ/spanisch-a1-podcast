@@ -1,6 +1,6 @@
 # Folge 2 – Transkript (Typische Spanisch-Fallen, Geschlechts-Zwillinge & „No, no…“)
 
-> **Audio-Datei:** [ep02_woche01_fehlerfallen.mp3](./ep02_woche01_fehlerfallen.mp3) *(nur lokal zum Mitlesen)*
+> **Audio-Datei:** [ep02_woche01_fehlerfallen.m4a](./ep02_woche01_fehlerfallen.m4a) *(nur lokal zum Mitlesen)*
 
 ### Block 1 – Die 3 Klassiker
 - *La foto es muy bonita.* — Das Foto ist sehr schön. *(Kurzform von `la fotografía`!)*
@@ -15,8 +15,8 @@
 - *¿Hablas francés? – **No, no** hablo francés. Hablo español.*
 - *¿**Qué** bolso prefieres? ¿**Cuál** es tu número de teléfono?*
 
-### Abschluss-Dialog *(erst `-10 %`, dann `100 %`)*
-- **Elvira:** *¡Hola! ¿Tienes alguna duda con el español?*
-- **Álvaro:** *Sí, un poco. ¿Se dice el foto o la foto?*
-- **Elvira:** *Se dice la foto, porque viene de fotografía. ¿Y vives en Hamburgo?*
-- **Álvaro:** *No, no vivo en Hamburgo. Vivo en Múnich. ¡Muchas gracias, esto es muy útil!*
+### Abschluss-Dialog *(erst ~82 %, dann ~95 %!)*
+- **Aoede:** *¡Hola! ¿Tienes alguna duda con el español?*
+- **Charon:** *Sí, un poco. ¿Se dice el foto o la foto?*
+- **Aoede:** *Se dice la foto, porque viene de fotografía. ¿Y vives en Hamburgo?*
+- **Charon:** *No, no vivo en Hamburgo. Vivo en Múnich. ¡Muchas gracias, esto es muy útil!*
