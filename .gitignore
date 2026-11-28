@@ -1,4 +1,4 @@
-# Nur öffentliche Podcast-Dateien (feed.xml, index.html, *.mp3) publizieren
-*_transkript.md
+# Nur interne Metadaten lokal behalten; Transkripte (*_transkript.md) werden mit-publiziert!
 episodes.json
 .DS_Store
+.tmp_*.wav
